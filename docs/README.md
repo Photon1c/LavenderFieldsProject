@@ -7,7 +7,7 @@ A collection of scripts, models, and simple functions to aid in data analysis an
 
 ### Update 3.1.25  
 
-Orchestrating subagent frameworks can be done easily with Claude now, [this script](scripts/Claude_subagent_framework.py) is an example of this implementation.  
+Orchestrating subagent frameworks can be done easily with Claude now, [this script](../scripts/Claude_subagent_framework.py) is an example of this implementation.  
 
 ### Update 2.22.25 -
 
