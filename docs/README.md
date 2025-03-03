@@ -1,5 +1,8 @@
-# The Lavender Fields Project
+# The Lavender Fields Project 🌞   
 A collection of scripts, models, and simple functions to aid in data analysis and advanced natural system processing frameworks.  
+
+The /scripts and /examples directores are serving similar purposes in this repository. The old adage of not fixing what isn't broken  
+is honored to avoid breaking any links in previous updates.  🩹
 
 <details>
 
