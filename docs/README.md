@@ -5,6 +5,10 @@ A collection of scripts, models, and simple functions to aid in data analysis an
 
 <summary>Project Updates</summary>
 
+### Update 3.2.25
+
+The [Recursive Agent Script](https://github.com/Photon1c/LavenderFieldsProject/blob/main/scripts/recursive_llm_with_hil.py) is now available. It demonstrates performance issues with functions that call themselves.  
+
 ### Update 3.1.25  
 
 Orchestrating subagent frameworks can be done easily with Claude now, [this script](../scripts/Claude_subagent_framework.py) is an example of this implementation.  
