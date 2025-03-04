@@ -3,6 +3,10 @@ A collection of scripts, models, and simple functions to aid in data analysis an
 
 The /scripts and /examples directores are serving similar purposes in this repository. The old adage of not fixing what isn't broken is honored to avoid breaking any links in previous updates.  🩹
 
+The general intended process flow for most of the scripts in this project is as follows:  
+
+![Process Flow](process-flow-png)  
+
 <details>
 
 <summary>Project Updates</summary>
