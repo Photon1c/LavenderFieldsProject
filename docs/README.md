@@ -5,7 +5,7 @@ The /scripts and /examples directores are serving similar purposes in this repos
 
 The general intended process flow for most of the scripts in this project is as follows:  
 
-![Process Flow](process-flow-png)  
+![Process Flow](../img/process-flow-png)  
 
 <details>
 
