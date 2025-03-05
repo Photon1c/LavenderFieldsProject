@@ -3,7 +3,7 @@ A collection of scripts, models, and simple functions to aid in data analysis an
 
 ### 🚩 👋😆✋ Major Update 
 
-A [new](../notebooks/googlecollab-huggingface-gpu-quick-start.ipynb) Jupyter Notebook to be run in Google Collab is now available, meant to train and deploy hugginface models. The runtime should be set to a GPU, although the script has checks prior to deploying a rather exhaustive model.  [Check back for link to be updated, model is taking a while to train 💪)
+A [new](https://github.com/Photon1c/LavenderFieldsProject/blob/main/notebooks/googlecollab-huggingface-gpu-quick-start.ipynb) Jupyter Notebook to be run in Google Collab is now available, meant to train and deploy hugginface models. The runtime should be set to a GPU, although the script has checks prior to deploying a rather exhaustive model.  [Check back for link to be updated, model is taking a while to train 💪)
 
 The /scripts and /examples directores are serving similar purposes in this repository. The old adage of not fixing what isn't broken is honored to avoid breaking any links in previous updates.  🩹
 
